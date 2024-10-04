@@ -1,4 +1,4 @@
-// COMSC-210 | Lab 12 | Justin Beiber
+// COMSC-210 | Lab 10 | Daniil Malakhov
 //IDE used: codeblocks
 #include <iostream>
 using namespace std;
